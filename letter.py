@@ -1,0 +1,5 @@
+print("November 2nd 2022")
+print("I'm very excited")
+print("By the end of the year I will have become proficient at programming")
+print("We have done it ^^")
+print(">.> cuando sabes que te has metido en un berenjenal")
